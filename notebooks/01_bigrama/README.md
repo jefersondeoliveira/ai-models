@@ -41,9 +41,9 @@ jupyter notebook notebook.ipynb
 | 03 | Markov | em breve |
 | 04 | HMM | em breve |
 | 05 | Redes Neurais | em breve |
-| 05 | Embeddings | em breve |
-| 06 | Attention | em breve |
-| 07 | Transformers | em breve |
-| 08 | LLMs | em breve |
+| 06 | Embeddings | em breve |
+| 07 | Attention | em breve |
+| 08 | Transformers | em breve |
+| 09 | LLMs | em breve |
 
 → Próximo: `02_neural_bigrama`

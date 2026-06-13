@@ -69,8 +69,8 @@ O que muda é a forma como cada modelo tenta responder essa pergunta.
 
 ## Trilha de Estudos
 
-| # | Tema | Objetivo |
-|---|------|-----------|
+| # | Tema |
+|---|------|
 | [01 — Bigrama](notebooks/01_bigrama/) | Entender tokenização, probabilidades e geração de texto |
 | [02 — Neural Bigram](notebooks/02_neural_bigrama/) | Introduzir pesos, logits, loss e treinamento |
 | 03 — Markov | Expandir o contexto além de um único token |

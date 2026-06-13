@@ -72,14 +72,14 @@ O que muda é a forma como cada modelo tenta responder essa pergunta.
 | # | Tema |
 |---|------|
 | [01 — Bigrama](notebooks/01_bigrama/) | Entender tokenização, probabilidades e geração de texto |
-| [02 — Neural Bigram](notebooks/02_neural_bigrama/) | Introduzir pesos, logits, loss e treinamento |
+| [02 — Neural Bigrama](notebooks/02_neural_bigrama/) | Introduzir aprendizado por gradiente e redes neurais aplicadas à linguagem |
 | 03 — Markov | Expandir o contexto além de um único token |
 | 04 — HMM | Introduzir estados ocultos e inferência probabilística |
-| 05 — Redes Neurais | Compreender perceptrons, backpropagation e aprendizado |
-| 06 — Embeddings | Transformar tokens em representações vetoriais densas |
-| 07 — Attention | Aprender contexto dinâmico e relevância entre tokens |
-| 08 — Transformers | Construir a arquitetura que revolucionou os LLMs |
-| 09 — LLMs | Pré-treinamento, fine-tuning, RLHF e scaling laws |
+| 05 — MLPs e Redes Neurais Profundas | Ir além do bigrama neural usando camadas ocultas e não linearidades |
+| 06 — Embeddings | Aprender representações distribuídas e similaridade semântica |
+| 07 — Attention | Permitir que o modelo escolha dinamicamente onde olhar |
+| 08 — Transformers | Unificar embeddings, attention e processamento paralelo |
+| 09 — LLMs | Escala, pré-treinamento, instrução e alinhamento |
 
 ---
 

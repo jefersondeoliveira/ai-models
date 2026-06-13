@@ -72,7 +72,7 @@ O que muda é a forma como cada modelo tenta responder essa pergunta.
 | # | Tema | Objetivo |
 |---|------|-----------|
 | [01 — Bigrama](notebooks/01_bigrama/) | Entender tokenização, probabilidades e geração de texto |
-| [02 — Neural Bigram](notebooks/02_neural_bigram/) | Introduzir pesos, logits, loss e treinamento |
+| [02 — Neural Bigram](notebooks/02_neural_bigrama/) | Introduzir pesos, logits, loss e treinamento |
 | 03 — Markov | Expandir o contexto além de um único token |
 | 04 — HMM | Introduzir estados ocultos e inferência probabilística |
 | 05 — Redes Neurais | Compreender perceptrons, backpropagation e aprendizado |
